@@ -59,3 +59,4 @@ minutes count will decrement by 1 and the seconds will start to countdown from 5
 
 [Simple Clock/Countdown Timer](https://codepen.io/karlo-stekovic/pen/OajKVK)
 [Countdown Timer built with React](https://www.florin-pop.com/blog/2019/05/countdown-built-with-react/)
+[Countdown Timer using Angular](victormuniz7.github.io/countdown-timer/)
