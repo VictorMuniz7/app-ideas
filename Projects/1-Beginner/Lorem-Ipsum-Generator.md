@@ -22,3 +22,4 @@ You can track your progress by cloning this [Trello Board](https://trello.com/b/
 ## Example projects
 
 -   [Lipsum.com](https://www.lipsum.com/)
+-   [Lorem Ipsum Generator using Angular](https://victormuniz7.github.io/lorem-ipsum/)
