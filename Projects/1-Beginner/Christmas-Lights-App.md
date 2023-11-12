@@ -32,5 +32,6 @@ displayed during the Christmas Holidays.
 
 [PureCSSChristmasLights](https://codepen.io/tobyj/pen/QjvEex)
 [Christmas Lights](https://codepen.io/irfanezani_/pen/mdeLpKo)
+[Christmas Lights using Angular](https://victormuniz7.github.io/christmas-lights/)
 
 
