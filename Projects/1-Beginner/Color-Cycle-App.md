@@ -39,3 +39,4 @@ an RGB color specification (e.g. `#000000` color code).
 ## Example projects
 
 [CSS Color Changing Background](https://codepen.io/SoumyajitChand/pen/wjKVed)
+[Color cycle using Angular](https://victormuniz7.github.io/color-cycle/)
