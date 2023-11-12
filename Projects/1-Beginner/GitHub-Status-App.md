@@ -53,3 +53,4 @@ request('https://www.githubstatus.com/',  { json: true }, (err, res, body) => {
 
 - [Peter Luczynski's example](https://peterluczynski.github.io/github-status/)
 - [Diogo Moreira's example](https://diogomoreira.github.io/github-status/)
+- [Github Status using Angular](victormuniz7.github.io/github-status/)
