@@ -36,3 +36,4 @@ There are plenty of Product Landing Pages out there. You can use [Dribbble](www.
 
 -   [Netlify](https://www.netlify.com/)
 -   [Product Landing Page - Codepen](https://codepen.io/l4ci/pen/LoGjk)
+-   [Product Landing Page using Angular](victormuniz7.github.io/product-landing/)
