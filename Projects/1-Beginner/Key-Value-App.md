@@ -34,6 +34,7 @@ a key is pressed.
 
 - [Digital Electronics](https://en.wikipedia.org/wiki/Digital_electronics)
 - [Keyboard Event](https://developer.mozilla.org/en-US/docs/Web/API/KeyboardEvent)
+- [Key Value app using Angular](victormuniz7.github.io/key-value/)
 
 ## Example projects
 
