@@ -66,3 +66,4 @@ in the contents of these two fields.
 ## Example projects
 
 [Vigenere Encryption](https://codepen.io/max1128/pen/VdyJmd)
+[Vigenère Cipher encryption using Angular](https://victormuniz7.github.io/vigenere-cipher/)
