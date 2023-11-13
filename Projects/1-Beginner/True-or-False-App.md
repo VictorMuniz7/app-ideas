@@ -32,5 +32,4 @@ the `eval()` function to generate the result of the conditional.
 -   [Truthy and Falsy: When all is not equal in Javascript](https://www.sitepoint.com/javascript-truthy-falsy/)
 
 ## Example projects
-
-N/A
+- [True or False using Angular](https://victormuniz7.github.io/true-or-false/)
