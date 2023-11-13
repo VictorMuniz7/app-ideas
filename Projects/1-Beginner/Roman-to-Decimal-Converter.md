@@ -36,3 +36,4 @@ See the below table the _Symbol - Value_ pairs:
 Try not to view this until you've developed your own solution:
 
 -   [Roman Number Converter](https://www.calculatorsoup.com/calculators/conversions/roman-numeral-converter.php)
+-   [Roman to Decimal Converter using Angular](https://victormuniz7.github.io/roman-2-decimal/)
