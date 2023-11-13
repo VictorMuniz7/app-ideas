@@ -42,3 +42,4 @@ along with its frequency, in descending order by frequency.
 - [Word Frequency Counter](https://codepen.io/maxotar/pen/aLrwJM)
 - [Bubble Chart](https://codepen.io/Quendoline/pen/pjELpM)
 - [Svelte Word Frequency by Gabriele Corti](https://codepen.io/borntofrappe/pen/QWWWqQM)
+- [Word frequency using Angular](https://victormuniz7.github.io/word-frequency/)
