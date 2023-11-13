@@ -148,3 +148,4 @@ the relationship between projects and organizations.
 ## Example projects
 
 [Playing with card layout](https://codepen.io/bradjdouglas/pen/xOZJRz)
+[Charity Finder using Angular](https://victormuniz7.github.io/charity-finder/)
