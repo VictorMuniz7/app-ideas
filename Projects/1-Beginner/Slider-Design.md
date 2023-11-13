@@ -23,3 +23,4 @@ Display multiple images using a slider / carousel.
 
 -   [Full Page Slider](https://codepen.io/FlorinPop17/full/LvOroe)
 -   [WOWSlider](http://wowslider.com/3d-slider-jquery-fresh-cube-demo.html)
+-   [Slider website using Angular](victormuniz7.github.io/slider-design/)
