@@ -49,3 +49,4 @@ the API to save a copy to this apps recipe file or database.
 
 - [Recipe Box - a Free Code Camp Project (FCC)](https://codepen.io/eddyerburgh/pen/xVeJvB)
 - [React Recipe Box](https://codepen.io/inkblotty/pen/oxWRme)
+- [Recipe App using Angular](victormuniz7.github.io/recipe-app/)
