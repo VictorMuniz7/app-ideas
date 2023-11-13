@@ -26,3 +26,4 @@ Try not to view this until you've developed your own solution:
 
 -   [Example](https://alonjoshua.github.io/random-number-generator/)
 -   [Project](https://github.com/AlonJoshua/random-number-generator/)
+-   [Random Number Generator using Angular](https://victormuniz7.github.io/random-number-generator/)
