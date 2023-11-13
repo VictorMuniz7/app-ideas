@@ -28,3 +28,4 @@ temperature.
 
 [Wind Chill Calculator](http://www.jsmadeeasy.com/javascripts/Calculators/Wind%20Chill%20Calculator/index.htm)
 [Svelte Wind Chill Index by Gabriele Corti](https://codepen.io/borntofrappe/pen/WNNrrJg)
+[Windchill Calculator using Angular](https://victormuniz7.github.io/windchill-calculator/)
