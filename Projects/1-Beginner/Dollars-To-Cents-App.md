@@ -27,3 +27,4 @@ The challenge: Try this without using any frameworks.
 ## Example projects
 
 -   [Dollars to cents converter](https://github.com/LimonJuice322/Dollars-to-cents-converter)
+-   [Dollar to cents converter using Angular](https://victormuniz7.github.io/dollars-to-cents/)
