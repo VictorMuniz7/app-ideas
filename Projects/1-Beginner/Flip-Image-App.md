@@ -33,4 +33,5 @@ Image packages and libraries are not allowed.
 ## Example projects
 
 [Image Effects by @bennettfeely](https://codepen.io/seyedi/pen/gvqYQv)
+
 [Flip Image by VictorMuniz7](https://victormuniz7.github.io/flip-image/)
